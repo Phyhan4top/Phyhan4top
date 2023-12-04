@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phyhan4top
-- 👀 I’m interested in JavaScrip Development job
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Javascript
+- 👀 I’m interested in Frontend Developer job
+- 🌱 I’m currently learning about backend development
+- 💞️ I’m looking to collaborate on Frontent development of a website
 
 - 📫 How to reach me
 - <ul>

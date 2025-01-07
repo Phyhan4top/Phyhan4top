@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Phyhan4top<br>- 👀 I’m interested in Frontend Developer job<br>- 🌱 I’m currently learning about backend development<br>- 💞️ I’m looking to collaborate on Frontend development of a website
+- 👋 Hi, I’m @Phyhan4top<br>- 👀 I’m interested in Software Developer job<br>- 🌱 I’m currently learning about backend development<br>- 💞️ I’m looking to collaborate on Frontend development of a website
 
 
 ## 🌐 Socials:

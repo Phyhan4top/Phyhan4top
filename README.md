@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Phyhan4top<br>- 👀 I’m interested in Software Developer job<br>- 🌱 I’m currently learning about backend development<br>- 💞️ I’m looking to collaborate on Frontend development of a website
-
+- 👋 Hi, I’m @Phyhan4top<br>- 👀 I’m interested in Software Developer job<br>- 🌱 I’m currently learning more on backend development
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/oyedepo.ajose) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/olu_phy_han/profilecard/?igsh=MWVnNjMxZDhidmZ1cA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajose-oyedepo-464a79294) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@phyhan4top) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/OluPhyHan?s=09) 

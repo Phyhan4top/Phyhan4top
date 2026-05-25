@@ -15,11 +15,8 @@ Currently, I'm building interactive digital learning dashboards and engineering 
 * **Skye Editor:** A web-based marketing design tool utilizing Vue.js and Fabric.js for complex HTML5 canvas manipulation (drag-and-drop, opacity, multi-format export).
 * **Tino E-commerce:** A scalable platform utilizing Next.js server-side components for maximized SEO and optimized routing strategies.
 
-### 📈 GitHub Stats
-![Ajose's GitHub stats](https://github-readme-stats.vercel.app/api?username=phyhan4top&show_icons=true&theme=radical)
-
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/ajose-oyedepo](linkedin.com/in/ajose-oyedepo)
+* **LinkedIn:** [linkedin.com/in/ajose-oyedepo](https://www.linkedin.com/in/ajose-oyedepo)
 * **Portfolio:** [https://my-portfolio-9mpt.onrender.com](https://my-portfolio-9mpt.onrender.com)
 * **Email:** oyedepo304@gmail.com
 

@@ -20,7 +20,7 @@ Currently, I'm building interactive digital learning dashboards and engineering 
 
 ### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/ajose-oyedepo](#)
-* **Portfolio:** [your-portfolio-link.com](#)
+* **Portfolio:** [https://my-portfolio-9mpt.onrender.com](#)
 * **Email:** oyedepo304@gmail.com
 
 ## 🌐 Socials:

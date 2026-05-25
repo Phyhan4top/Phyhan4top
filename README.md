@@ -6,9 +6,9 @@ Currently, I'm building interactive digital learning dashboards and engineering 
 
 ### 🛠 Technical Arsenal
 * **Frontend:** React.js, Next.js, Vue.js, TypeScript, Tailwind CSS, Fabric.js 
-* **Backend & Database:** Node.js, Express.js, MongoDB, RESTful APIs [cite: 9, 11]
+* **Backend & Database:** Node.js, Express.js, MongoDB, RESTful APIs.
 * **Architecture:** Progressive Web Apps (PWA), SSR/SSG, State Management
-* **Tools:** Git, Vite, Figma, Postman [cite: 9, 11, 12]
+* **Tools:** Git, Vite, Figma, Postman
 
 ### 🚀 Featured Engineering
 * **E-Marketplace System:** A MERN-stack Progressive Web App (PWA) facilitating direct trade for agricultural markets. Optimized for low-bandwidth environments.
@@ -16,7 +16,7 @@ Currently, I'm building interactive digital learning dashboards and engineering 
 * **Tino E-commerce:** A scalable platform utilizing Next.js server-side components for maximized SEO and optimized routing strategies.
 
 ### 📈 GitHub Stats
-![Ajose's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Ajose's GitHub stats](https://github-readme-stats.vercel.app/api?username=phyhan4top&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/ajose-oyedepo](#)

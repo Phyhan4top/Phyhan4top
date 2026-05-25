@@ -1,5 +1,27 @@
-# 💫 About Me:
-- 👋 Hi, I’m @Phyhan4top<br>- 👀 I’m interested in Software Developer job<br>- 🌱 I’m currently learning more on backend development
+# Hi there, I'm Ajose Oyedepo 👋
+
+I'm a Frontend Software Engineer focused on building performant, accessible, and scalable web applications. I specialize in the modern JavaScript ecosystem, bridging complex API integrations with pixel-perfect UI architecture. 
+
+Currently, I'm building interactive digital learning dashboards and engineering accessible web solutions. 
+
+### 🛠 Technical Arsenal
+* **Frontend:** React.js, Next.js, Vue.js, TypeScript, Tailwind CSS, Fabric.js 
+* **Backend & Database:** Node.js, Express.js, MongoDB, RESTful APIs [cite: 9, 11]
+* **Architecture:** Progressive Web Apps (PWA), SSR/SSG, State Management
+* **Tools:** Git, Vite, Figma, Postman [cite: 9, 11, 12]
+
+### 🚀 Featured Engineering
+* **E-Marketplace System:** A MERN-stack Progressive Web App (PWA) facilitating direct trade for agricultural markets. Optimized for low-bandwidth environments.
+* **Skye Editor:** A web-based marketing design tool utilizing Vue.js and Fabric.js for complex HTML5 canvas manipulation (drag-and-drop, opacity, multi-format export).
+* **Tino E-commerce:** A scalable platform utilizing Next.js server-side components for maximized SEO and optimized routing strategies.
+
+### 📈 GitHub Stats
+![Ajose's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/ajose-oyedepo](#)
+* **Portfolio:** [your-portfolio-link.com](#)
+* **Email:** oyedepo304@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/oyedepo.ajose) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/olu_phy_han/profilecard/?igsh=MWVnNjMxZDhidmZ1cA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajose-oyedepo-464a79294) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@phyhan4top) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/OluPhyHan?s=09) 

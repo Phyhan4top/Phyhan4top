@@ -19,8 +19,8 @@ Currently, I'm building interactive digital learning dashboards and engineering 
 ![Ajose's GitHub stats](https://github-readme-stats.vercel.app/api?username=phyhan4top&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/ajose-oyedepo](#)
-* **Portfolio:** [https://my-portfolio-9mpt.onrender.com](#)
+* **LinkedIn:** [linkedin.com/in/ajose-oyedepo](linkedin.com/in/ajose-oyedepo)
+* **Portfolio:** [https://my-portfolio-9mpt.onrender.com](https://my-portfolio-9mpt.onrender.com)
 * **Email:** oyedepo304@gmail.com
 
 ## 🌐 Socials:
